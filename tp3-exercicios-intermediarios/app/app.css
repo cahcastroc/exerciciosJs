@@ -1,0 +1,90 @@
+h2{
+    text-align: center;
+}
+
+#q1,
+#q2,
+#q3,
+#q4,
+#q5,
+#q6{
+    border-radius: 15px;
+    padding:6px 10px;  
+    margin-top: 1% 
+       }
+
+
+#q1{
+
+    background-color: #CEE6B8;
+        
+}
+
+.table-bordered{
+    text-align: center;
+}
+
+.bt {
+    border:1px solid #25692A;
+    border-radius:4px;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px;     
+    margin-top: 20px;    
+    text-align: center;
+    
+ }
+
+
+#q2{
+    background-color: #C0F0F0;
+}
+
+#q3{
+    background-color: #C3B9D9;
+}
+
+#q4{
+    background-color: #F0C3C0;
+}
+#q5{
+    background-color: #E6CF93;
+}
+#q6{
+    background-color: #CEE6B8;
+}
+
+
+.titulo{
+    border: 1px solid black;   
+    font-weight: bold;
+    caption-side: top;
+    text-align: center;
+    color:black;
+    
+}
+
+.rodape{
+    text-align: center;
+}
+
+.minMax, 
+.qtdMinMax,
+.triangulo{
+    display: flex;        
+    justify-content:space-evenly;
+    margin-top: 10px;
+}
+
+.validado,
+.novoCadastro{
+
+    visibility: hidden;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}

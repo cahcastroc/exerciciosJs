@@ -1,0 +1,31 @@
+body{
+    width: 100vh;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.adulto{
+    width: 100vh;
+    height: 100vh;
+    background-color: gray;
+    color: antiquewhite;
+    margin: 0 auto;
+    padding: 0;
+    
+    
+}
+
+.crianca{
+    width: 100vh;
+    height: 100vh;
+    background-color: mediumseagreen;
+    color:beige;
+    margin: 0 auto;
+    padding: 0;
+}
